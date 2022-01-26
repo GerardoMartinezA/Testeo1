@@ -8,11 +8,11 @@ public class Helloword {
 			
 		Scanner scanner = new Scanner(System.in);
 		int edad;
-		String nombre;
+		String Nombre;
 		System.out.println("dime tu nombr: ");
-		nombre = scanner.next();
+		Nombre = scanner.next();
 		
-		System.out.println("Tu nombre es: " + nombre);
+		System.out.println("Tu nombre es: " + Nombre);
 		
 		
 	}
